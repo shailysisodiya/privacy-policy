@@ -1,2 +1,21 @@
 # privacy-policy
-Privacy Policy Your privacy is important to us. This Privacy Policy explains how we handle information when you use our mobile application (“the App”), which allows users to upload images and virtually try different outfits. We do not store, save, retain, share any uploaded images or generated images on our servers once the processing is completed
+Privacy Policy
+Your privacy is important to us. This Privacy Policy explains how we handle information when you use our mobile application “Dressing Room”, which allows users to upload images and virtually try different outfits.
+Information We Collect
+We are committed to minimizing data collection. When you upload an image to use the outfit transformation feature, the image is processed temporarily only for generating the requested result. We do not store, save, retain, or share any uploaded images or generated images on our servers once the processing is completed.
+We do not collect personally identifiable information such as name, email address, phone number, or location unless explicitly required for a specific feature and clearly communicated to you.
+Image Processing and Security
+All image processing is performed in a secure environment. Uploaded images are used solely for the purpose of providing the outfit transformation service and are automatically deleted immediately after processing. We do not use uploaded images for training, marketing, analytics, or any secondary purpose.
+Data Sharing
+We do not sell, rent, or share user data or images with third parties, except where required to operate essential services (such as payment processing) or comply with legal obligations.
+Payment Information
+All payments are handled through secure third-party payment gateways. We do not store or process your card or banking details on our servers. Payment processing is conducted in compliance with PCI DSS (Payment Card Industry Data Security Standard) to ensure the highest level of security for financial transactions.
+
+
+Children’s Privacy
+The App is not intended for use by children under the age of 13. We do not knowingly collect any data from children.
+Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected within the App, and continued use signifies acceptance of the updated policy.
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us through the App’s support section.
+
